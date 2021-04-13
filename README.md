@@ -9,8 +9,6 @@ npx create-react-app whatsapp-mern  --> create-react-app is a tool created by fa
 
 Frontend (app) will be deployed on firebase and backend on hiroku.
 
-https://whatsapp-mern-1d13d.web.app/
-
 npm install @material-ui/core --> To pull in all the material-ui core.
 
 npm install @material-ui/icons
