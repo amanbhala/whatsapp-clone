@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"server.js","dependencies":{"express":{"version":"4.17.1"},"mongoose":{"version":"5.12.3"},"pusher":{"version":"5.0.0"}}}
